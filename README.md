@@ -74,6 +74,12 @@ Open Telegram and start chatting with your bot!
 
 ---
 
+## Preview
+
+You will see like below:
+![start-img](./images/start.jpg)
+
+
 ## 💬 Example Interaction
 
 **User:** What is the capital of France?  
